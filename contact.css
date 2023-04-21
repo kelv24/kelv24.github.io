@@ -1,0 +1,25 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+ h2{
+	font-size: 3rem;
+	margin-top: 1rem;
+	color: #048654;
+    text-align: center;
+}
+p{
+    font-size: 1rem;
+	margin-top: 1rem;
+	color: #048654;
+    text-align: center;
+}
+ul li{
+    font-size: 1rem;
+	margin-top: 1rem;
+	color: #048654;
+    text-align: center;
+    list-style: none;
+}
