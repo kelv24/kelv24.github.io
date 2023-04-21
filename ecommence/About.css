@@ -1,0 +1,29 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+.l-header{
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: var(--z-fixed);
+    background-color: var(--body-color);
+}
+
+
+header h1 {
+	font-size: 5rem;
+	margin: 0;
+    text-align: left;
+	color: #048654;
+}
+
+header p {
+	font-size: 3rem;
+	margin-top: 1rem;
+	color: #048654;
+    text-align: center;
+}
